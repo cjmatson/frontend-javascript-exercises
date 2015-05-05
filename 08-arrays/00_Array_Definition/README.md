@@ -14,6 +14,6 @@
    For example:
    
    ```javascript
-   var array = ['one', 3, 'cool' 4];
+   var array = ['one', 3, 'cool', 4];
    firstAndLast(array) // should return ['one', 4]
    ```
