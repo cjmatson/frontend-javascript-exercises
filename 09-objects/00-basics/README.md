@@ -41,9 +41,9 @@
     - Take two arguments:
         - `item`: represents what the user wants to buy
         - `money`: represents how many dollars a user has
-    - return `true` if a user can afford a given item according to the price chart below, and false otherwise:
+    - Return `true` if a user can afford a given item according to the price chart below, and false otherwise:
         - 'MacBook Air' - $999
-        - MacBook Pro' - $1299
+        - 'MacBook Pro' - $1299
         - 'Mac Pro' - $2499
         - 'Apple Sticker' - $1
     - Return `false` if the `item` is not in the above list of Apple products
